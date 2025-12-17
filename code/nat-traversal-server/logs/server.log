@@ -1,0 +1,15 @@
+[2025-12-17 21:40:42]|{"logger":"c.f.n.NatTraversalApplicationTests", "thread":"main", "msg":"Starting NatTraversalApplicationTests using Java 17.0.14 with PID 14496 (started by 35136 in C:\Users\35136\JavaProjects\nat-traversal-server)"}
+[2025-12-17 21:40:42]|{"logger":"c.f.n.NatTraversalApplicationTests", "thread":"main", "msg":"No active profile set, falling back to 1 default profile: "default""}
+[2025-12-17 21:40:43]|{"logger":"c.f.n.NatTraversalApplicationTests", "thread":"main", "msg":"Started NatTraversalApplicationTests in 1.516 seconds (process running for 2.161)"}
+[2025-12-17 21:40:44]|{"logger":"com.fate.nat_traversal.Server", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown Server..."}
+[2025-12-17 21:40:44]|{"logger":"com.fate.nat_traversal.Server", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown Server..."}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendTransmitServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendTransmitService..."}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendTransmitServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendTransmitService..."}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendTransmitServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendTransmitService gracefully"}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendTransmitServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendTransmitService gracefully"}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendCommunicationServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendCommunicationService..."}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendCommunicationServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendCommunicationService..."}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendCommunicationServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendCommunicationService Gracefully"}
+[2025-12-17 21:40:44]|{"logger":"c.f.n.s.i.BackendCommunicationServiceImpl", "thread":"SpringApplicationShutdownHook", "msg":"Shutdown BackendCommunicationService Gracefully"}
+[2025-12-17 21:40:44]|{"logger":"com.fate.nat_traversal.Server", "thread":"SpringApplicationShutdownHook", "msg":"Server shutdown gracefully"}
+[2025-12-17 21:40:44]|{"logger":"com.fate.nat_traversal.Server", "thread":"SpringApplicationShutdownHook", "msg":"Server shutdown gracefully"}

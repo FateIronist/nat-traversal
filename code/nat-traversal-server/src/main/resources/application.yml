@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: nat-traversal
+  devtools:
+    restart:
+      enabled: true
+      # exclude: static/**,templates/**,config/**  # ?????????????
+      # additional-paths: /src/main/java  # ????common????
+      # trigger-file: .reload-trigger  # ???????.reload-trigger???????
+      poll-interval: 1s
+      quiet-period: 500ms
+
+server:
+  port: 9090
+
+nat-traversal:
+  turn:
+    # backend connection port
+    reg-port: 9999
+    max-server-proxy: 10
+    max-client-connection: 20
+
+log:
+  path: ./logs
+
+logging:
+  level:
+    com.fate.nat_traversal.service: info
+    com.fate.nat_traversal.Server: info
+

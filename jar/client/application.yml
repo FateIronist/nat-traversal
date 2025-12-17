@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: nat-traversal-client
+
+server:
+  port: 9091
+
+nat-traversal:
+  # nat traversal server
+  server:
+    host: localhost
+    port: 9999
+  client:
+    # which port to proxy
+    server-port: 25565
+    max-connection: 20
+
+log:
+  path: ./logs
+
+logging:
+  level:
+    com.fate.nat_traversal.service: info
+    com.fate.nat_traversal.Client: info
